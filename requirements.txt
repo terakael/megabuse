@@ -1,0 +1,9 @@
+moviepy==1.0.3
+Pillow==9.5.0
+python-magic==0.4.27
+cryptography==42.0.7
+python-dotenv==1.0.1
+pyheif==0.7.1
+
+Flask
+Flask-Cors==4.0.1
